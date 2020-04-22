@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Trabalho_v1</string>
+    <string name="adicionar_paciente">Adicionar Paciente</string>
+    <string name="ver_pacientes">Ver Pacientes</string>
+    <string name="nif">NIF</string>
+    <string name="nome">Nome</string>
+    <string name="data_nascimento">Data Nascimento</string>
+    <string name="nacionalidade">Nacionalidade</string>
+    <string name="morada">Morada</string>
+    <string name="infetado">Infetado</string>
+    <string name="gravar">Gravar</string>
+
+    <string name="suspeito">Suspeito</string>
+    <string name="pacientes">Pacientes</string>
+    <string name="medicos">Medicos</string>
+    <string name="msaterial">Msaterial</string>
+    <string name="despezas">Despezas</string>
+    <string name="material">Material</string>
+    <string name="voltar">Voltar</string>
+    <string name="cidade">Cidade</string>
+    <string name="distrito">Distrito</string>
+    <string name="concelho">Concelho</string>
+    <string name="covid_19">Covid-19</string>
+    <string name="problemas_de_saude">Problemas de saude</string>
+    <string name="enviar">Enviar</string>
+    <string name="contato">Contato</string>
+    <string name="butaomaterial">ButaoMaterial</string>
+    <string name="butaodespesas">ButaoDespesas</string>
+    <string name="despesas">despesas</string>
+</resources>
